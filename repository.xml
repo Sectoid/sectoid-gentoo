@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>sectoid-gentoo</name>
+    <description>Sectoid's Gentoo overlay</description>
+    <homepage>https://github.com/Sectoid/sectoid-gentoo/</homepage>
+    <owner type="project">
+      <email>sectoid@gnolltech.org</email>
+      <name>Gleb Golubitsky</name>
+    </owner>
+    <source type="git">git://github.com/Sectoid/sectoid-gentoo.git</source>
+    <source type="git">https://Sectoid@github.com/Sectoid/sectoid-gentoo.git</source>
+    <source type="git">git+ssh://git@github.com:Sectoid/sectoid-gentoo.git</source>
+  </repo>
+</repositories>
