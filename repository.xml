@@ -11,6 +11,6 @@
     </owner>
     <source type="git">git://github.com/Sectoid/sectoid-gentoo.git</source>
     <source type="git">https://Sectoid@github.com/Sectoid/sectoid-gentoo.git</source>
-    <source type="git">git+ssh://git@github.com:Sectoid/sectoid-gentoo.git</source>
+    <source type="git">git@github.com:Sectoid/sectoid-gentoo.git</source>
   </repo>
 </repositories>
